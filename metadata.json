@@ -1,0 +1,7 @@
+{
+  "name": "Rekap Dapur",
+  "description": "Aplikasi Manajemen Pesanan Supplier & Rekap Dapur Harian",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

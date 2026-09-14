@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Generated inspection / extraction artifacts
+inspect_*/
+inspect_report.html
+extracted_assets/
+optimized_assets/
+final_assets/
+
+# Temporary document artifacts
+/temp_*
+/docx_*.docx
